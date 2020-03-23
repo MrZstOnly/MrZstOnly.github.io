@@ -3,8 +3,18 @@
   <entry>
     <title>About Me</title>
     <url>/2019/03/13/about/</url>
-    <content><![CDATA[<p>姓名： 周孙太<br>现居：福州<br>Github: <a href="https://github.com/MrZstOnly" target="_blank" rel="noopener" title="周孙太的github">MrZstOnly</a><br>QQ：550808296<br>Wechat: EVA_ZST<br><img src="http://q74wyddlw.bkt.clouddn.com/WechatIMG38.jpeg" width=300 height=300 alt="我自己" style="border-radius:50%;" align=middle /></p>
+    <content><![CDATA[<blockquote>
+<p>A Coder, live in Fuzhou, China.  </p>
+</blockquote>
+<p>姓名： 周孙太<br>现居：福州<br>Github: <a href="https://github.com/MrZstOnly" target="_blank" rel="noopener" title="周孙太的github">MrZstOnly</a><br>QQ：550808296<br>Wechat: EVA_ZST</p>
+<a id="more"></a>
+<img src="http://q74wyddlw.bkt.clouddn.com/WechatIMG38.jpeg" width=300 height=300 alt="avatar" style="border-radius:50%;" align=middle />
+
+
 ]]></content>
+      <categories>
+        <category>我</category>
+      </categories>
       <tags>
         <tag>关于我</tag>
       </tags>
